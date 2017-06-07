@@ -6,7 +6,7 @@
   <description>The package provides GoogleMock.</description>
   <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
   <license>BSD</license>
-  
+
   <buildtool_depend>cmake</buildtool_depend>
 
   <export>
